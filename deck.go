@@ -11,6 +11,7 @@ import (
 
 // create a new type of 'deck'
 //which is a slice of strings
+//testing github
 type deck []string
 
 func newDeck() deck {
